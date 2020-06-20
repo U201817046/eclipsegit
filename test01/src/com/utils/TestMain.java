@@ -1,5 +1,10 @@
 package com.utils;
+<<<<<<< HEAD
 /** 123456
+=======
+//5555
+/** 51561456
+>>>>>>> branch 'master' of https://github.com/U201817046/eclipsegit.git
  * <p>Title: TestMain.java</p> 
  * @author smallFish 
  * @date 2020骞�6鏈�18鏃� 
