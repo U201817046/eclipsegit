@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="t3" method="get">
+    学号：<input type="text" name="userID"><br>
+    姓名：<input type="text" name="user"><br>
+    密码：<input type="text" name="pwd"><br>
+    <input type="submit" value="test03"><br>
+   </form>
+   
+  <hr color="red"> 
+   <form action="t3?userID=1002" method="get">
+<!--     学号：<input type="text" name="userID"><br> -->
+    姓名：<input type="text" name="user"><br>
+    密码：<input type="text" name="pwd"><br>
+    <input type="submit" value="test03"><br>
+   </form>
+   
+<!--    超链接 -->
+   <hr color="yellow"> 
+ <a href="t3?userID=1001&user=tom&pwd=abc">test03-get03</a>
+
+ <hr color="red"> 
+<form action="t3" method="post">
+    学号：<input type="text" name="userID"><br>
+    姓名：<input type="text" name="user"><br>
+    密码：<input type="text" name="pwd"><br>
+    <input type="submit" value="test03-post01"><br>
+   </form>
+
+<hr color="green"> 
+<form action="t3?userID=1002" method="post">
+<!--     学号：<input type="text" name="userID"><br> -->
+    姓名：<input type="text" name="user"><br>
+    密码：<input type="text" name="pwd"><br>
+    <input type="submit" value="test03-post02"><br>
+   </form>
+
+</body>
+</html> 
