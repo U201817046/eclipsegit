@@ -2,13 +2,13 @@ package com.utils;
 /** 
  * <p>Title: TestMain.java</p> 
  * @author smallFish 
- * @date 2020Äê6ÔÂ18ÈÕ 
+ * @date 2020å¹´6æœˆ18æ—¥ 
  * @version 1.0 
- * <p>¹¦ÄÜÃèÊö: </p>  
- */
+ * <p>åŠŸèƒ½æè¿°: </p>  
+ */haixng
 public class TestMain {
 	public static void main(String[] args) {
-			//String sqls = "insert into student values(1006,'lisi2','abc',20,'ÄĞ','ºìÉ¡È¥')";
+			//String sqls = "insert into student values(1006,'lisi2','abc',20,'ç”·','çº¢ä¼å»')";
 			/*String sqls = "delete from student where stu_id=1008";
 				
 			DBUtils db = new DBUtils();
